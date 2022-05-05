@@ -1,9 +1,9 @@
 amqp==2.5.2
 backports.functools_lru_cache==1.0.1
 enum34==1.1.6
-git+https://github.com/amCap1712/mbdata.git@9f0dc9f4eddd2f5013789cd211e45d3b4b3ee560#egg=mbdata
+git+https://github.com/amCap1712/mbdata.git@a5795fc1ffb20ad911473217419afc241c9b3269#egg=mbdata
 git+https://github.com/metabrainz/mb-rngpy.git@v-2.20201112.0#egg=mb-rngpy
-psycopg2==2.8.4
+psycopg2==2.8.6
 retrying==1.3.3
 pysolr==3.8.1
 sqlalchemy==1.0.19
